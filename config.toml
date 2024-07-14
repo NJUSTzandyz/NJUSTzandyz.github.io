@@ -1,4 +1,4 @@
-baseURL = 'https://njustzandyz.github.io/'
+baseURL = 'https://njustzandyz.github.io/cvlg/'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
