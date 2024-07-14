@@ -11,7 +11,7 @@ College of Computer Science, Chongqing University<br>
 Email: <a href="mailto:txiang@cqu.edu.cn">txiang@cqu.edu.cn</a><br>
 </div>
 </div>
-<img src="/team/TaoXiang.jpeg" style="width: 90px; flow: right">
+<img src="TaoXiang.jpeg" style="width: 90px; flow: right">
 </div>
 
 ## Biography
