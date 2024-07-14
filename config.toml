@@ -1,4 +1,4 @@
-baseURL = 'https://njustzandyz.github.io'
+baseURL = 'https://github.com/NJUSTzandyz'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
@@ -9,7 +9,7 @@ theme = 'LoveIt'
     languageCode = "en"
     languageName = "English"
     hasCJKLanguage = false
-    title = 'Cyber Security Laboratory @ CQU'
+    title = 'Creative Vision&Learning Group @ NJUST'
     paginate = 12
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -72,18 +72,18 @@ theme = 'LoveIt'
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/csl-cqu"
+        url = "https://github.com/NJUSTzandyz"
         title = "GitHub"
         weight = 8
     [languages.en.params]
       # site description
-      description = "The website of Cyber Security Laboratory @ CQU"
+      description = "Creative Vision&Learning Group @ NJUST"
       # site keywords
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
+      keywords = ["Creative Vision&Learning Group", "NJUST", "AI"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "CSL@CQU"
+        title = "CVLG@NJUST"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -103,7 +103,7 @@ theme = 'LoveIt'
     languageCode = "zh-CN"
     languageName = "简体中文"
     hasCJKLanguage = true
-    title = '重庆大学网络安全实验室'
+    title = '南京理工大学创造力学习实验室'
     paginate = 12
     [languages.zh-cn.menu]
       [[languages.zh-cn.menu.main]]
@@ -166,18 +166,18 @@ theme = 'LoveIt'
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/csl-cqu"
+        url = "https://github.com/NJUSTzandyz"
         title = "GitHub"
         weight = 8
     [languages.zh-cn.params]
       # 网站描述
-      description = "重庆大学网络安全实验室官网"
+      description = "TBD"
       # 网站关键词
-      keywords = ["Cyber Security Laboratory", "CQU", "AI"]
+      keywords = ["TBD", "NJUST", "AI"]
       # 应用图标配置
       [languages.zh-cn.params.app]
         # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-        title = "CSL@CQU"
+        title = "CVLG@NJUST"
         # 是否隐藏网站图标资源链接
         noFavicon = false
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -461,7 +461,7 @@ theme = 'LoveIt'
 # Author config
 # 作者配置
 [author]
-  name = "Cyber Security Laboratory, Chongqing University."
+  name = "TBD, Nanjing University of Science and Technology."
 
 
 # Options to make output .md files
