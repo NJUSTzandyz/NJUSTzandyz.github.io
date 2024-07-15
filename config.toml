@@ -2,7 +2,6 @@ baseURL = 'https://njustzandyz.github.io'
 # 网站默认语言
 defaultContentLanguage = 'en'
 theme = 'LoveIt'
-canonifyURLs = true
 [languages]
   [languages.en]
     weight = 1
