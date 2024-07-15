@@ -33,7 +33,7 @@ canonifyURLs = true
         pre = ""
         post = ""
         name = "Team"
-        url = "/team/"
+        url = "static/team/"
         title = ""
         weight = 3
       [[languages.en.menu.main]]
