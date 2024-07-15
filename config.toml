@@ -32,7 +32,7 @@ theme = 'LoveIt'
         pre = ""
         post = ""
         name = "Team"
-        url = "static/team/"
+        url = "/team/"
         title = ""
         weight = 3
       [[languages.en.menu.main]]
